@@ -15,8 +15,8 @@ Documentad las decisiones relevantes cuando se tomen, no únicamente al terminar
 
 ## Decisión: 
 
-- **Fecha:** 
-- **Pregunta o problema:** 
+- **Fecha:** 14/10/26
+- **Pregunta o problema:** Dependencias
 - **Opciones consideradas:** 
 - **Decisión adoptada:** 
 - **Justificación:** 

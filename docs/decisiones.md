@@ -24,7 +24,7 @@ Documentad las decisiones relevantes cuando se tomen, no únicamente al terminar
 - **Limitaciones o aspectos pendientes:** 
 - **Issue, pull request o evidencia relacionada:**
 
-## Decisión: 
+## Decisión: ESQUEMA DE DATOS
 
 - **Fecha:** 
 - **Pregunta o problema:** 

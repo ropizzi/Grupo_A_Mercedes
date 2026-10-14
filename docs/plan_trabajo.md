@@ -6,9 +6,10 @@ El equipo debe descomponer el proyecto en tareas propias. Los hitos del README o
 
 | Hito | Tarea o Issue | Responsable | Revisor | Fecha prevista | Evidencia de finalización |
 |---|---|---|---|---|---|
-| [Por completar] | [Por completar] | [Por completar] | [Por completar] | [Por completar] | [Por completar] |
-|---|---|---|---|---|---|
-| [Por completar] | [Por completar] | [Por completar] | [Por completar] | [Por completar] | [Por completar] |
+| 1 | [Por completar] | [Por completar] | [Por completar] | [Por completar] | [Por completar] |
+| 2 | [Por completar] | [Por completar] | [Por completar] | [Por completar] | [Por completar] |
+| 3 | [Por completar] | [Por completar] | [Por completar] | [Por completar] | [Por completar] |
+| 4 | [Por completar] | [Por completar] | [Por completar] | [Por completar] | [Por completar] |
 
 ## Seguimiento
 

@@ -27,4 +27,4 @@ Mantened las tareas actualizadas en Issues. Si el profesor utiliza milestones o 
 
 | Fecha | Dificultad o cambio detectado | Ajuste acordado | Issue relacionado |
 |---|---|---|---|
-| [Por completar] | [Por completar] | [Por completar] | [Por completar] |
+| 14/10/26 | Asignación de tareas | añadir filas a la tabla de organización con toda la información | ??? |

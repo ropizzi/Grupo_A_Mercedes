@@ -22,7 +22,7 @@ Documentad las decisiones relevantes cuando se tomen, no únicamente al terminar
 - **Justificación:** Permite comprobar inmediatamente que el entorno de desarrollo local es compatible y que las librerías se importan correctamente antes de que el resto del equipo las integre.
 - **Cómo se comprobará:** Ejecutando el bloque de código de verificación para comprobar que se muestran las versiones de las librerías sin errores.
 - **Limitaciones o aspectos pendientes:** Crear formalmente el archivo de texto en la raíz del repositorio y completar el flujo en GitHub mediante un pull request ya que lo estamos escribiendo desde Visual Studio.
-- **Issue, pull request o evidencia relacionada:**Rama de trabajo dependencias y archivo de pruebas dependencias.ipynb.
+- **Issue, pull request o evidencia relacionada:** Rama de trabajo dependencias y archivo de pruebas dependencias.ipynb.
 
 ## Decisión: ESQUEMA DE DATOS
 

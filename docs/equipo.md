@@ -1,6 +1,5 @@
 # Identificación del equipo
 
-Completar al comenzar. El equipo puede tener un máximo de tres integrantes; eliminad las filas que no correspondan.
 
 **Nombre del equipo:** Grupo A               
 **Grupo docente:** VCIA2101          

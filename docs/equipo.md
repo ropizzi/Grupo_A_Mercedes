@@ -4,7 +4,7 @@ Completar al comenzar. El equipo puede tener un máximo de tres integrantes; eli
 
 **Nombre del equipo:** Grupo A 
 **Grupo docente:** [Por completar]  
-**Repositorio asignado:** [Por completar]
+**Repositorio asignado:** https://github.com/ropizzi/Grupo_A_Mercedes
 
 | Integrante | Usuario de GitHub |
 |---|---|

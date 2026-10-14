@@ -15,6 +15,7 @@ Completar al comenzar. El equipo puede tener un máximo de tres integrantes; eli
 ## Organización acordada
 
 [Explicar cómo se coordinará el equipo, cómo revisará el trabajo y cómo distribuirá y rotará las responsabilidades.]
+hola es una prueba para enseñaros como editar
 
 ## Cambios en la organización
 

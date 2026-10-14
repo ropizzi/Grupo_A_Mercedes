@@ -2,15 +2,15 @@
 
 Completar al comenzar. El equipo puede tener un máximo de tres integrantes; eliminad las filas que no correspondan.
 
-**Nombre del equipo:** [Por completar]  
+**Nombre del equipo:** Grupo A 
 **Grupo docente:** [Por completar]  
 **Repositorio asignado:** [Por completar]
 
 | Integrante | Usuario de GitHub |
 |---|---|
-| [Por completar] | [Por completar] |
-| [Por completar] | [Por completar] |
-| [Por completar] | [Por completar] |
+| Ana García | anaagss |
+| Alejandra Sahagún | alejandraaaaa1 |
+| Julia Rodríguez | ropizzi |
 
 ## Organización acordada
 

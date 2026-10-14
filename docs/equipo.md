@@ -13,9 +13,9 @@ Completar al comenzar. El equipo puede tener un máximo de tres integrantes; eli
 | Julia Rodríguez | ropizzi |
 
 ## Organización acordada
-
-[Explicar cómo se coordinará el equipo, cómo revisará el trabajo y cómo distribuirá y rotará las responsabilidades.]
-hola es una prueba para enseñaros como editar
+La organización que vamos a seguir el grupo A, partirá de tres responsabilidades principales, pero con el fin de tener una buena distribución del trabajo, tiempo y aprendizaje los roles serán flexibles.
+Los roles son: coordinador, ...
+La revisión del proyecto se basará en dos puntos clave, en primer lugar una revisión individual llevada a cabo por aquel miembro que ha realizado la tarea y por otro lado una evaluación grupal, donde los tres miembros nos reuniremos para evaluar la tarea realizada por cada integrante. En esta última evaluación destacaremos los puntos favorables y se cenntrara en un feedback recíproco.
 
 ## Cambios en la organización
 

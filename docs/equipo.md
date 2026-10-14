@@ -14,13 +14,17 @@ Completar al comenzar. El equipo puede tener un máximo de tres integrantes; eli
 
 ## Organización acordada
 La organización que vamos a seguir el grupo A, partirá de tres responsabilidades principales, pero con el fin de tener una buena distribución del trabajo, tiempo y aprendizaje los roles serán flexibles.
-Los roles principales son: 
+Los roles principales son:
+
   -Organizadora: Julia Rodríguez Pizzi
   Este rol se encarga de asignar tareas, fechas límite y de la planificación de cara a los hitos.
+  
   -Supervisora: Alejandra Sahagún
   Este rol se encarga de comprobar que el contenido está perfecto, que no falta nada por hacer/entregar y que el trabajo esta listo para ser entregado.
+  
   -Redactora: Ana García
   Este rol se encarga de redactar los archivos principales o entregables del proyecto.
+  
 La revisión del proyecto se basará en dos puntos clave, en primer lugar una revisión individual llevada a cabo por el supervisor, quien destacará los puntos favorables y se centrará en un feedback. Por otro lado se llevará a cabo una evaluación grupal, donde la supervisora comunicará los puntos a mejorar con el resto del grupo.
 
 ## Cambios en la organización

@@ -2,8 +2,8 @@
 
 Completar al comenzar. El equipo puede tener un máximo de tres integrantes; eliminad las filas que no correspondan.
 
-**Nombre del equipo:** Grupo A 
-**Grupo docente:** VCIA2101
+**Nombre del equipo:** Grupo A               
+**Grupo docente:** VCIA2101          
 **Repositorio asignado:** https://github.com/ropizzi/Grupo_A_Mercedes
 
 | Integrante | Usuario de GitHub |

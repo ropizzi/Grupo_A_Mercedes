@@ -17,7 +17,7 @@ Documentad las decisiones relevantes cuando se tomen, no únicamente al terminar
 
 - **Fecha:** 14/10/26
 - **Pregunta o problema:** Dependencias
-- **Opciones consideradas:** 
+- **Opciones consideradas:** Uso de un archivo de texto estándar para listar las versiones y probar los entornos mediante un cuaderno de trabajo.
 - **Decisión adoptada:** 
 - **Justificación:** 
 - **Cómo se comprobará:** 

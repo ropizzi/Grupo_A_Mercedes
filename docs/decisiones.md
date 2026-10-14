@@ -13,7 +13,7 @@ Documentad las decisiones relevantes cuando se tomen, no únicamente al terminar
 - **Limitaciones o aspectos pendientes:** planificar los próximos hitos (se hará despues de entregar el H1)
 - **Issue, pull request o evidencia relacionada:** <img width="2052" height="598" alt="image" src="https://github.com/user-attachments/assets/1781c592-ba09-47d8-9fbc-c13bd6a12f7f" />
 
-## Decisión: 
+## Decisión: DEPENDENCIAS
 
 - **Fecha:** 14/10/26
 - **Pregunta o problema:** Dependencias

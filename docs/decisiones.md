@@ -2,7 +2,7 @@
 
 Documentad las decisiones relevantes cuando se tomen, no únicamente al terminar. Cada entrada debe contener una explicación propia del equipo.
 
-## Decisión: Planificación
+## Decisión: PLANIFICACIÓN
 
 - **Fecha:** 14/10/26
 - **Pregunta o problema:** Organización de tareas
@@ -24,7 +24,7 @@ Documentad las decisiones relevantes cuando se tomen, no únicamente al terminar
 - **Limitaciones o aspectos pendientes:** Crear formalmente el archivo de texto en la raíz del repositorio y completar el flujo en GitHub mediante un pull request ya que lo estamos escribiendo desde Visual Studio.
 - **Issue, pull request o evidencia relacionada:** Rama de trabajo dependencias y archivo de pruebas dependencias.ipynb.
 
-## Decisión: ESQUEMA DE DATOS
+## Decisión: ESQUEMA Y GENERACIÓN DE DATOS 
 
 - **Fecha:** 14/10/2026
 - **Pregunta o problema:** Creación del esquema de datos y del diccionario

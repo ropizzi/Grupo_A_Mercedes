@@ -8,7 +8,7 @@ El equipo debe descomponer el proyecto en tareas propias. Los hitos del README o
 |---|---|---|---|---|---|
 
 | H1 Diseño | Esquema de datos | Ana García | [Por completar] | 15/10/26 | [Por completar] |
-| H1 Diseño | Dependencias | Alejandra Sahagún | [Por completar] | 15/10/26 | [Por completar] |
+| H1 Diseño | Dependencias | Alejandra Sahagún | [Por completar] | 15/10/26 | Una rama de trabajo llamada diccionario y un archivo en markdown. |
 | H1 Diseño | Decisiones de generación y planificación | Julia Rodríguez | [Por completar] | 15/10/26 | [Por completar] |
 | H2 Datos | Generador | [Por completar] | [Por completar] | [Por completar] | [Por completar] |
 | H2 Datos | Muestras y validación | [Por completar] | [Por completar] | [Por completar] | [Por completar] |

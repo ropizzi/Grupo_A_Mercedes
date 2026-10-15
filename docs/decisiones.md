@@ -2,7 +2,7 @@
 
 Documentad las decisiones relevantes cuando se tomen, no únicamente al terminar. Cada entrada debe contener una explicación propia del equipo.
 
-## Decisión: Planificación
+## Decisión: PLANIFICACIÓN
 
 - **Fecha:** 14/10/26
 - **Pregunta o problema:** Organización de tareas
@@ -24,7 +24,7 @@ Documentad las decisiones relevantes cuando se tomen, no únicamente al terminar
 - **Limitaciones o aspectos pendientes:** Crear formalmente el archivo de texto en la raíz del repositorio y completar el flujo en GitHub mediante un pull request ya que lo estamos escribiendo desde Visual Studio.
 - **Issue, pull request o evidencia relacionada:** Rama de trabajo dependencias y archivo de pruebas dependencias.ipynb.
 
-## Decisión: ESQUEMA DE DATOS
+## Decisión: ESQUEMA Y GENERACIÓN DE DATOS 
 
 - **Fecha:** 15/10/26
 - **Pregunta o problema:** Creación del esquema de datos y del diccionario
@@ -45,3 +45,13 @@ Documentad las decisiones relevantes cuando se tomen, no únicamente al terminar
 - **Cómo se comprobará:** Cuando se vayan realizando otros hitos se comprobará.
 - **Limitaciones o aspectos pendientes:** Se pierden las relaciones propias de una base de datos relacional. 
 - **Issue, pull request o evidencia relacionada:** Una rama de trabajo llamada diccionario y un archivo markdown.
+
+- **Fecha:** 14/10/2026
+- **Pregunta o problema:** Creación del esquema de datos y del diccionario
+- **Opciones consideradas:**  A la hora de visualizar y de almacenar los datos, hemos considerado que una base de datos relacional, donde se han seleccionado intuitivamente los campos y atributos y se han descrito los datos por tipos y por rango a considerar. 
+- **Decisión adoptada:** Base de datos relacional
+- **Justificación:** La versatilidad a la hora de almacenar los datos, es un modelo muy intuitivo y a la hora de realizar consultas es muy eficiente
+- **Cómo se comprobará:** A esta altura del proyecto no es posible comprobar la efectividad del diccionario.
+- **Limitaciones o aspectos pendientes:** Cabe por evaluar si es el mejor modelo para el proyecto, además considerando que es una empresa popular, tendrá muchos registros.
+- **Issue, pull request o evidencia relacionada:** Una rama de trabajo llamada diccionario y un archivo en markdown.
+ 

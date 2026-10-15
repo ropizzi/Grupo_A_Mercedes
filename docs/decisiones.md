@@ -26,11 +26,22 @@ Documentad las decisiones relevantes cuando se tomen, no únicamente al terminar
 
 ## Decisión: ESQUEMA DE DATOS
 
-- **Fecha:** 
-- **Pregunta o problema:** 
-- **Opciones consideradas:** 
-- **Decisión adoptada:** 
-- **Justificación:** 
-- **Cómo se comprobará:** 
-- **Limitaciones o aspectos pendientes:** 
-- **Issue, pull request o evidencia relacionada:** 
+- **Fecha:** 15/10/26
+- **Pregunta o problema:** Creación del esquema de datos y del diccionario
+- **Opciones consideradas:** Hemos considerado el optar por una base de datos relacional, donde intuitivamente se han seleccionado los campos y se han descrito los datos por tipos y rango a tener en consideración. 
+- **Decisión adoptada:** Cabe decidir si es la opción más factible.
+- **Justificación:** El modelo de datos relacional es bastante versatil de cara a consultar datos y es bastante intuitivo.
+- **Cómo se comprobará:** Aún no es posible comprobar la efectividad de este modelo.
+- **Limitaciones o aspectos pendientes:** Cabe por evaluar si es el mejor modelo para el proyecto ya que al ser una gran empresa contendrá un gran volumen de datos.
+- **Issue, pull request o evidencia relacionada:** Una rama de trabajo llamada diccionario y un archivo markdown.
+
+## Decisión: ESQUEMA DE DATOS II
+
+- **Fecha:** 15/10/26
+- **Pregunta o problema:** Creación del esquema y diccionario de datos.
+- **Opciones consideradas:** Previamente se consideró la implementación de una base de datos relacional, pero puesto que en la charla se ha comentado que los datos fluctuan siguiendo un registro plano por cliente hemos optado por una opción acorde.
+- **Decisión adoptada:** Modelo tabular plano.
+- **Justificación:** Porque nos hemos planteado una mejor opción y hemos llegado a la conclusión de que posiblemente este modelo sea más adecuado.
+- **Cómo se comprobará:** Cuando se vayan realizando otros hitos se comprobará.
+- **Limitaciones o aspectos pendientes:** Se pierden las relaciones propias de una base de datos relacional. 
+- **Issue, pull request o evidencia relacionada:** Una rama de trabajo llamada diccionario y un archivo markdown.
